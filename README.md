@@ -52,15 +52,11 @@ camera-system/
 
 ## Architecture Diagram
 
-![Architecture](docs/ticket20.jpg)
+![Ticket 20](src/simulator/ticket20.jpg)
 
----
+## Demo GIF
 
-## Demo
-
-![Demo](docs/ticket20.gif)
-
----
+![Ticket 20 GIF](src/simulator/ticket20.gif)
 
 ## Coordinate Systems
 
