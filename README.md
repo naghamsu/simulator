@@ -3,7 +3,7 @@
 A flexible camera system for a 2D renderer architecture built with Python and Matplotlib.
 
 ---
-#students: Nagham Sleman 476937  Salam Ali 503263
+# students: Nagham Sleman 476937  Salam Ali 503263
 
 ## Features
 
